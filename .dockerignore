@@ -1,0 +1,8 @@
+.git
+.github
+terraform
+tests
+.venv
+__pycache__
+*.pyc
+*.pem

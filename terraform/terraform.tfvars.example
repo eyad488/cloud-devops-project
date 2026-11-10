@@ -1,0 +1,5 @@
+region = "us-east-1"
+instance_type = "t3.micro"
+key_name = "student-devops-key"
+ssh_cidr = "203.0.113.25/32"
+web_cidr = "203.0.113.25/32"
