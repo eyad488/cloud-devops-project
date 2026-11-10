@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def home():
-    return "<h1>Cloud DevOps Mini-Project</h1><p>Application deployed successfully!</p>"
+    return "<h1>Cloud DevOps Mini-Project</h1><p>Application updated successfully!</p>"
 
 @app.get("/health")
 def health():
